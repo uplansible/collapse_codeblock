@@ -2,7 +2,7 @@
 // ==UserScript==
 // @name         Kagi Assistant Code Collapse
 // @namespace    https://kagi.com/
-// @version      0.1
+// @version      0.1.1
 // @description  Adds a collapse button to code blocks on Kagi Assistant.
 // @match        https://kagi.com/assistant*
 // @grant        none
